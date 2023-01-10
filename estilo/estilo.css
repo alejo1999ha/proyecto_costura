@@ -1,0 +1,78 @@
+.casilla{	
+border:1px solid #c2c2c2 !important;
+background: rgba(255,255,255, 0.2) !important;
+color: #959595 !important;
+}
+
+.casilla:focus{	
+border: 1px solid #557dff !important;
+background: rgba(255,255,255, 0.2) !important;
+color: #000 !important;
+}
+
+.casilla:hover{	
+border: 1px solid #4f5972 !important;
+background: rgba(255,255,255, 0.2) !important;
+color: #4f5972 !important;
+}
+
+.sombra{
+box-shadow: 0px 5px 10px #001A6F;
+border-radius: 0px 0px 20px 20px;
+}
+
+.indigo{
+background-color: #e0e2ee;
+}
+
+.bg-azul{
+background-color: #001A6F;
+color: #ffffff;
+border-radius: 6px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+.radio-titulo{
+border-radius: 20px 20px 0px 0px;
+}
+
+.divisor-blanco{
+color: white;
+}
+
+.cursor{ 
+cursor: pointer;
+}
+
+.btn-negrita{
+font-weight:bold;
+}
+
+.btn:hover{
+  animation: shadow-pulse 1000ms 1;
+  background-color: #FF8A00;
+  color: white;
+}
+
+.icono-mensajes{	
+  font-size: 55px;
+}
+
+.bg-indigo
+{
+  background-color: #e0e2ee;
+}
+
+.bg-default
+{
+  background-color: #BEC6F6;
+}
+
+.borde-azul-izquierdo{
+	border-left: #007bff solid 1px;
+}
+
+.borde-azul-derecho{
+	border-right: #007bff solid 1px;
+}
